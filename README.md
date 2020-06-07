@@ -1,2 +1,5 @@
-# Ola_Mundo
- primeiro_repositorio_versionado_github
+# Olá, Mundo!
+primeiro repositório feito em treinamento
+
+ primeiro-repositorio-versionado-github
+ 
